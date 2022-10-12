@@ -1,2 +1,2 @@
 # qaa_stepik_course
-this is a comment
+repo for https://stepik.org/course/575/ course tasks
